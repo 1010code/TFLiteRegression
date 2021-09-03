@@ -1,4 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/TFLiteRegression/blob/main/TensorflowRegression.ipynb)
 
+### [文章](https://andy6804tw.github.io/2021/09/02/android-tflite-regression-model-deploy/)
 
 ## 將 TFlite 模型部署到 Android 手機
 模型一切就緒後緊接著重頭戲就是將模型放到 Android 上讀取並進行預測。首先執行 Android Studio 並開啟一個新專案，其中我們要建立一個 Ktolin 基底的專案。
